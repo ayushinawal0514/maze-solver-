@@ -100,4 +100,4 @@ concurrently for the race, instead of running each one to completion first.
 
 ## License
 
-MIT — do whatever you want with it.
+MIT 
