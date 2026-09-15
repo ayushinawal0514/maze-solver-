@@ -98,6 +98,3 @@ concurrently for the race, instead of running each one to completion first.
   A*'s advantage over BFS more dramatically
 - Swap the animation loop for `asyncio` and run the race in true parallel time
 
-## License
-
-MIT 
